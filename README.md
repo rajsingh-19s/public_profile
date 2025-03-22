@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Full-Stack Developer | MERN Stack | Open Source Contributor</h3>
+      <h3>Frontend Developer | Open Source Contributor</h3>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -69,7 +69,7 @@
 <h2 align="center">📩 Let's Connect!</h2>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/raj](https://www.linkedin.com/in/raj-singh-a574b21aa/)">
+  <a href="www.linkedin.com/in/raj](https://www.linkedin.com/in/raj-singh-a574b21aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Rajkumar Singh-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="mailto:adityapandeyp1234@gmail.com">

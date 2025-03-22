@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Aditya Pandey! 👋
+  Hi, I'm Rajkumar Singh! 👋
 </h1>
 <table align="center">
   <tr>

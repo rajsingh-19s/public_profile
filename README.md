@@ -69,11 +69,11 @@
 <h2 align="center">📩 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pandey-0661881ba/">
+  <a href="www.linkedin.com/in/raj">
     <img src="https://img.shields.io/badge/LinkedIn-adityapandey-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="mailto:adityapandeyp1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adityapandeyp1234@gmail.com-red?logo=gmail&style=for-the-badge" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-rajsingh1920sk@gmail.com-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
 </p>
 

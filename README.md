@@ -69,8 +69,8 @@
 <h2 align="center">📩 Let's Connect!</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/raj">
-    <img src="https://img.shields.io/badge/LinkedIn-adityapandey-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  <a href="[www.linkedin.com/in/raj](https://www.linkedin.com/in/raj-singh-a574b21aa/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajkumar Singh-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="mailto:adityapandeyp1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rajsingh1920sk@gmail.com-red?logo=gmail&style=for-the-badge" alt="Gmail">
